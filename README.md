@@ -1,5 +1,9 @@
 # Mandelbrot Fractal Zoomer
 
+CS61C: Computer Architecture & Machine Structures, Fall 2019
+
+Spec Link: https://cs61c.org/fa19/projects/proj1/
+
 ## Background
 
 In this project, you will be implementing the Mandelbrot function and translating the result to an image! As your first major foray into the world of C programming, we hope to give you practice working with structs, pointers, memory, and more. The project will be split into 2 parts: 1) evaluating the Mandelbrot function given some inputs, and 2) creating images from the Mandelbrot output.
